@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arentkievits
-- 👀 I’m interested in high resolution imaging, correlative light and electron microscopy, volume electron microscopy and data science!
-- 🌱 I’m currently learning how to write parallel code in Python!
+- 👀 I’m interested in high resolution imaging and data science!
+- 🌱 I’m currently learning how to structure code better!
 - 💞️ I’m looking to collaborate on my project, which involves multibeam scannning electron microscopy to scan biological samples in 3D. I have to write software to analyze thousands of microscopy images.
 - 📫 How to reach me: A.J.Kievits@tudelft.nl
