@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arentkievits
 - 👀 I’m a PhD candidate interested in electron microscopy!
 - 🌱 I’m currently learning how to do image segmentation in `napari`!
-- 💞️ I’m looking to collaborate on my PhD project, which involves multibeam scannning electron microscopy to scan biological samples in 3D. I'm writing software to analyze thousands of microscopy images.
+- 💞️ I’m open to collaborate! Currently I am developing software to analyze thousands of electron microscopy images from a multibeam scanning electron microscope!
 - 📫 How to reach me: A.J.Kievits@tudelft.nl
