@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arentkievits
-- 👀 I’m a PhD candidate interested in electron microscopy!
-- 🌱 I’m currently learning how to do image segmentation in `napari`!
-- 💞️ I’m open to collaborate! Currently I am developing software to analyze thousands of electron microscopy images from a multibeam scanning electron microscope!
+- 👀 I’m a PhD candidate interested in large-scale volume electron microscopy!
+- 🌱 I’m currently learning how to write proper documentation!
+- 💞️ I’m open to collaborate! We are developing software to make 3D reconstructions from large amounts of 2D electron microscopy images originating from our novel multibeam electron microscope, FAST-EM. 
 - 📫 How to reach me: A.J.Kievits@tudelft.nl
